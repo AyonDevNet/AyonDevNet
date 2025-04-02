@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayon</h1>
 <h3 align="center">A passionate learner exploring DevOps and Networking.</h3>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U4NTYxZ2c1OW1oMjA3MGgyNGczMHN1bmptMXhyMnY1Z2syeDhzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" 
+<img src="https://i.pinimg.com/originals/45/67/a8/4567a837b545d22b9dcde81ccd98b70e.gif" 
      alt="Coding" 
-     style="display: block; margin: auto; width: 500px;">
+     ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayondevnet&label=Profile%20views&color=0e75b6&style=flat" alt="ayondevnet" /> </p>
 
