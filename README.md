@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm DevNet</h1>
 <h1 align="center">System Administrator & Network Engineer | Certified MikroTik Professional | Skilled in Linux, DevOps, and Automation t</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayondevnet&label=Profile%20views&color=0e75b6&style=flat" alt="ayondevnet" /> </p>
 
