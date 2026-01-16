@@ -5,11 +5,6 @@
   <img src="https://www.devopshound.com/wp-content/uploads/2024/01/40.gif" width="700"/>
 </p>
 
-<!-- With theme -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyonDevNet&theme=darkhub" alt="ayondevnet" /></a> </p>
-
-<!-- With specific columns -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayondevnet&column=7" alt="ayondevnet" /></a> </p>
 - 🔭 I’m currently working on **Cloud and Networking as well as Deployment Solutions**
 
 - 🌱 I’m currently learning **Devops, SysAdmin and Networking**
