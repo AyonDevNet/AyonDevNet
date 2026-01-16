@@ -2,7 +2,7 @@
 <h3 align="center">System Admin & Network Engineer | Certified MikroTik Professional | Skilled in Linux, DevOps, and Automation</h3>
 
 <p align="center">
-  <img src="https://www.devopshound.com/wp-content/uploads/2024/01/40.gif" width="300"/>
+  <img src="https://www.devopshound.com/wp-content/uploads/2024/01/40.gif"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayondevnet&label=Profile%20views&color=0e75b6&style=flat" alt="ayondevnet" /> </p>
