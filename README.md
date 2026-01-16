@@ -5,7 +5,7 @@
   <img src="https://www.devopshound.com/wp-content/uploads/2024/01/40.gif" width="700"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayondevnet&label=Profile%20views&color=0e75b6&style=flat" alt="ayondevnet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyonDevNet&label=Profile%20views&color=0e75b6&style=flat" alt="ayondevnet" /> </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ayondevnet&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="ayondevnet GitHub Trophies" />
